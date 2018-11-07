@@ -1,0 +1,1 @@
+class ElectricityShop extends ShopAbstract{ }
